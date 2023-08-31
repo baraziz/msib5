@@ -1,5 +1,5 @@
 Materi pembelajaran MSIB
-- HTML adalah sebuah kerangka website tesp2
+- HTML adalah sebuah kerangka website tes1
 - CSS adalah untuk merapihkan dan mewarnai dokumen
 - Gitbuh adalah pembelajaran untuk dapat bekerja sama didalam project
 - saya melakukan perubahan
